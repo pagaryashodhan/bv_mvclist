@@ -1,0 +1,19 @@
+{
+  "name": "bv_mvclist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pagaryashodhan/bv_mvclist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pagaryashodhan/bv_mvclist/issues"
+  },
+  "homepage": "https://github.com/pagaryashodhan/bv_mvclist#readme"
+}
