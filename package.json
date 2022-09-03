@@ -1,7 +1,8 @@
 {
   "name": "bv_mvclist",
   "version": "1.0.0",
-  "main": "index.html",
+  "description": "",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "index.html"
@@ -15,6 +16,5 @@
   "bugs": {
     "url": "https://github.com/pagaryashodhan/bv_mvclist/issues"
   },
-  "homepage": "https://github.com/pagaryashodhan/bv_mvclist#readme",
-  "description": ""
+  "homepage": "https://github.com/pagaryashodhan/bv_mvclist#readme"
 }
