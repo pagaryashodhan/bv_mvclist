@@ -5,7 +5,7 @@ This project is created to demostrate the MVC archietecture. It is an simple tod
 # How to run the project.
 
  - Download the file from
-	 - [Here](https://github.com/pagaryashodhan/bv_mvclist.git)
+	 - [Here](https://github.com/pagaryashodhan/bv_mvclist/archive/refs/heads/main.zip)
 	 OR
 	 - Clone this repo using<br>
         ```git 
